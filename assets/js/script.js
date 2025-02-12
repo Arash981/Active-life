@@ -1,3 +1,8 @@
+/*
+    Author: Arash Moradi 
+    Title: ActiveLife
+*/
+
 'use strict';
 
 /*add event on element*/
